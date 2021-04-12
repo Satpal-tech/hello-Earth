@@ -1,0 +1,23 @@
+project on blogs:-
+
+sign-in =>
+admin sign-in
+user sign-in
+
+blogs (user part) =>
+enter or post a blog
+delete an existing blog
+see blogs of another user
+see recent blogs
+comment on another user's blog (new table with 5 attributes => commentId, userIdfrom, userIdTo, comment, datetime )
+
+leave admin part if you dont want
+
+blogs (admin part) =>
+post, delete his/her own blog
+see blogs of users individual and recent
+delete blog of any user
+remove any user
+
+
+i think we need to learn GraphQL and tokens(jwt) before making this
